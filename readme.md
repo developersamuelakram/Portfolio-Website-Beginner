@@ -17,7 +17,3 @@ This is my second practice project as I learn Html, CSS.
 # Fourthpage
 
 ![](images/page4.jpg);
-
-# Mobile Friendly
-
-![](images/mobilefriendly.jpg);
